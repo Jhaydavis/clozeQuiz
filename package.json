@@ -1,0 +1,14 @@
+{
+  "name": "cloze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhay Davis",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
